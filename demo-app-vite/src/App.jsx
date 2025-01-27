@@ -7,6 +7,7 @@ function App() {
 
   // let counter = 15
 
+  // reconcilation
   const addValue = ()=>{
     setCounter((prevCounter)=>prevCounter+1)
     setCounter((prevCounter)=>prevCounter+1)
